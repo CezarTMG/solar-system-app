@@ -1,0 +1,34 @@
+
+    #nav {
+    background-color: #183785;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    }
+
+    #nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    #nav li {
+        display:inline;
+        margin-right: 20px;
+    }
+    
+    #nav li a {
+        color: #21a6ca;
+        text-decoration: none;
+        font-size: 18px;
+    }
+    
+    #nav li a:hover {
+        color: #88ff00;
+    }
+    .nav-right p {
+        color: #f0e10a;
+        margin: 0;
+        font-size: 18px;
+    }
+    

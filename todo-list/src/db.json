@@ -1,0 +1,37 @@
+{
+    "planets": [
+      {
+        "name": "Mercury",
+        "page": "mercury"
+      },
+      {
+        "name": "Venus",
+        "page": "venus"
+      },
+      {
+        "name": "Earth",
+        "page": "earth"
+      },
+      {
+        "name": "Mars",
+        "page": "mars"
+      },
+      {
+        "name": "Jupiter",
+        "page": "jupiter"
+      },
+      {
+        "name": "Saturn",
+        "page": "saturn"
+      },
+      {
+        "name": "Uranus",
+        "page": "uranus"
+      },
+      {
+        "name": "Neptune",
+        "page": "neptune"
+      }
+    ]
+  }
+  
